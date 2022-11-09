@@ -12,4 +12,6 @@
 
 * Domain knowledge
 * Mind Maps 
+* Code 
+* FAQs
 * Reference Books and Journals 
