@@ -102,8 +102,14 @@
               * Log & Event Management
               * Security Monitoring & Analysis
               * Threat Intelligence sharing platforms
-              * Threat Detection & Hunting
-            * Digital Forensics & Incident Response
+              * Threat Detection, Hunting & Response
+            * Digital Forensics 
+              * Computer & Network Forensics
+              * Mobile Forensics
+              * Social Media Forensics
+              * Dark Web Forensics
+            * Incident Response & Threat Hunting
+              * Incident Handling
               * Cyber Threat Intelligence
               * Malware Analysis & Reverse Engineering
         * Security Management
