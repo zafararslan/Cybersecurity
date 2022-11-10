@@ -94,15 +94,18 @@
             * Web Application Pentesting
             * Mobile Pentesting
             * API Pentesting
-            * IOT Pentesting  
+            * IOT Pentesting 
+          * Vulnerability Assessment & Management 
           * Exploit Development
         * Defensive Security
-            * Vulnerability Assessment & Management
             * SOC
               * Log & Event Management
               * Security Monitoring & Analysis
+              * Threat Intelligence sharing platforms
               * Threat Detection & Hunting
-              * Digital Forensics & Incident Response
-            * Cyber Threat Intelligence
-            * Malware Analysis & Reverse Engineering
-            * 
+            * Digital Forensics & Incident Response
+              * Cyber Threat Intelligence
+              * Malware Analysis & Reverse Engineering
+        * Security Management
+          * Legal, Audit & Compliance
+          * SOC Management
