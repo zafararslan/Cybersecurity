@@ -103,15 +103,16 @@
               * Security Monitoring & Analysis
               * Threat Intelligence sharing platforms
               * Threat Detection, Hunting & Response
+
+            * Incident Response & Threat Hunting
+              * Incident Handling
+              * Cyber Threat Intelligence
+              * Malware Analysis & Reverse Engineering
             * Digital Forensics 
               * Computer & Network Forensics
               * Mobile Forensics
               * Social Media Forensics
               * Dark Web Forensics
-            * Incident Response & Threat Hunting
-              * Incident Handling
-              * Cyber Threat Intelligence
-              * Malware Analysis & Reverse Engineering
         * Security Management
           * Legal, Audit & Compliance
           * SOC Management
