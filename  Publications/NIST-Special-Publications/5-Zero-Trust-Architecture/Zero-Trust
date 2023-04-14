@@ -1,0 +1,71 @@
+"Zero Trust" is a holistic model for securing network, application, and data resources, with a focus on providing an identity-centric policy model for controlling access. 
+"Zero Trust" shifts security from an ineffective perimeter-centric model to a resource and identity-centric model. 
+
+Zero Trust Principles
+--> Core principles
+    -- Ensure all resources are accessed securely, regardless of location
+    -- Adopt a least privilege strategy and strictly enforce access control
+    -- Inspect and log all traffic
+--> Expanded principles
+    -- Ensure all components support APIs for event and data exchange
+    -- Automate actions across environments and systems, driven by context & events
+    -- Deliver tactical and strategic value
+Forrester
+--> Zero Trust Xtended (ZTX) Framework
+-- Data Security
+    * Data Classification & Protection
+    * Data Loss Prevention (DLP) 
+-- Workload Protection (Logical functions that drive business within both customer facing and backend business systems)
+    * Containers
+    * Applications
+    * Infrastructure
+    * Processes
+-- Networks (Network Pillar is primalrily focused on network segmentation - both from a user and a server perspective - to provide better security based on identity-centric attributes.)
+    * NGFWs
+    * WAF
+    * Network Access Control (NAC) solutions
+    * IPS
+-- People
+    * IAM
+       -RBAC & ABAC
+    * MFA
+    * SSO
+        -OAuth (standard)
+        -SAML (standard)
+-- Devices
+    * Identity
+    * Inventory 
+    * Isolation
+    * Security
+    * Controls
+-- Visibility and Analytics
+-- Automation and Orchestration 
+
+Gartner 
+--> Continuous Adaptive Risk and Trust Assessment (CARTA)
+The premise of CARTA is to provide continuous risk assessment as it pertains to,         
+        users, 
+        devices, 
+        applications, 
+        data, 
+        and workloads, 
+from a perspective of 
+        Predict, 
+        Prevent, 
+        Detect, 
+        and Respond. 
+Gartner tends to view zero trust a bit more narrowly, using the terms
+        Zero Trust Network Access (ZTNA)
+for user-to-server security, 
+        and Zero Trust Network Segmentation (ZTNS)
+for microsegmentation/server-to-server security. 
+   
+Google 
+--> BeyondCorp
+
+Cloud Security Alliance (CSA)
+--> Software Defined perimeter (SDP) architecture 
+
+NIST 
+--> Zero Trust Architecture SP-800-207
+--> National Cybersecurity center of Excellence (NCCoE)
