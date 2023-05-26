@@ -3,10 +3,11 @@
 ### Cybersecurity Domains
 * Mathematics for Cyber Security
 * Computer and Network Security
-* Software and Data Security
-* Cloud Computing Security
 * Cyber Threat Intelligence
 * Cyber Threat Modeling 
+* Model-Driven Security Engineering
+* Software and Data Security
+* Cloud Computing Security
 
 ### Content
 
